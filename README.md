@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Aravind%20R&fontSize=60&fontAlignY=38&desc=Python%20%26%20React%20Developer&descAlignY=58&descSize=22&fontColor=f0f9ff&animation=fadeIn" />
-
 <!-- Typing Animation -->
 <a href="https://github.com/Aravind-R5">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+Django+%26+React;REST+APIs+%7C+JWT+Auth+%7C+RBAC;Open+to+Junior+%2F+Fresher+Dev+roles;Based+in+Coimbatore%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
@@ -100,13 +97,6 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aravind-R5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-R5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" />
-
-</div>
-
-<div align="center">
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Aravind-R5&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" />
 
 </div>
@@ -130,7 +120,6 @@ me.say_hi()
 
 ## 🌱 Currently Working On
 
-- ✅ Adding **PyTest** test suites to production projects
 - 📦 Deepening **Docker** & containerization skills
 - ☁️ Exploring **AWS** deployment workflows
 - 📬 Actively applying for **Python / Django / Full Stack** roles
